@@ -31,7 +31,7 @@ Atualmente, o jogo implementado é um **Jogo da Velha (Tic-Tac-Toe)** entre dois
 - JavaScript (ES6+)
 - HTML5
 - CSS3
-- [Vite](https://vitejs.dev/) (caso esteja usando - ajuste conforme seu setup)
+- Vite
 
 ---
 
@@ -41,10 +41,10 @@ Atualmente, o jogo implementado é um **Jogo da Velha (Tic-Tac-Toe)** entre dois
 
 🔗 **Acesse o jogo online:** _em breve_
 
-📷 **Imagem do jogo:**
+📷 **Imagem do jogo:** _em breve_
 
 <p align="center">
-  <img src="https://via.placeholder.com/500x300.png?text=Preview+do+Jogo" alt="Captura de tela do jogo" />
+  <img />
 </p>
 
 ---
@@ -66,9 +66,7 @@ npm install
 yarn install
 
 # 4. Rodar o projeto em modo de desenvolvimento
-npm start
-# ou
-yarn start
+npm run dev
 
 Projeto-Inicial-em-React/
 ├── public/
